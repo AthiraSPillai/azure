@@ -1,8 +1,6 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<title>Settings Demo: Linux Academy: Microsoft Azure Exam 70-533 Prep</title>
-		
-	</head>Hello Testing</body>
+<html>
+<header><title>This is title</title></header>
+<body>
+Hello world
+</body>
 </html>
