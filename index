@@ -22,30 +22,7 @@
 						</thead>
 						<tbody>
 							<tr>
-								<td>WEBSITE_HOSTNAME</td>
-								<td>Environment-provided, global constant</td>
-								<td><?php echo getenv("WEBSITE_HOSTNAME"); ?></td>
-							</tr>
-							<tr>
-								<td>slotMessage</td>
-								<td>Slot setting</td>
-								<td><?php echo getenv("slotMessage"); ?></td>
-							</tr>
-							<tr>
-								<td>apiKey</td>
-								<td>Slot setting</td>
-								<td><?php echo getenv("apiKey"); ?></td>
-							</tr>
-							<tr>
-								<td>DefaultConnectionString</td>
-								<td>Global connection string</td>
-								<td><?php echo getenv("SQLAZURECONNSTR_DefaultConnectionString"); ?></td>
-							</tr>
-							<tr>
-								<td>SlotConnectionString</td>
-								<td>Slot-specific connection string</td>
-								<td><?php echo getenv("SQLAZURECONNSTR_SlotConnectionString"); ?></td>
-							</tr>
+									 /
 						</tbody>
 					</table>
 				</div>
